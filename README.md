@@ -29,7 +29,7 @@ If the environment is not required anymore, it can also be removed easily using:
 ```conda env remove -n graphs```
 
 ## To Do
-- [ ] Add notebooks for:
+- [X] Add notebooks for:
     - [X] Flowcharts
     - [X] Directed graphs using NetworkX
-    - [ ] Directed graphs using graphviz
+    - [X] Directed graphs using graphviz
