@@ -12,16 +12,20 @@ Himalaya Bir Shrestha
 - Download and clone this repository.
 
 - The virutal environment can be created using: 
+
 ```conda env create -n graphs --file graphs-environment.yml```
 
 - Once the environment is installed, it can be activated using:
+
 ```conda activate graphs```
 
 - To create a kernel for the notebook:
+
 ```python -m ipykernel install --user --name graphs --display-name "graphs"```
 
 ## Uninstallation
 If the environment is not required anymore, it can also be removed easily using:
+
 ```conda env remove -n graphs```
 
 ## To Do
