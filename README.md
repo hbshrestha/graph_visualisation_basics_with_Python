@@ -5,6 +5,8 @@ This repository contains the notebooks for graph visualisation basics with Pytho
 
 - [Graph visualisation basics with Python Part II: Directed graph with NetworkX](https://medium.com/towards-data-science/graph-visualisation-basics-with-python-part-ii-directed-graph-with-networkx-5c1cd5564daa)
 
+- [Graph Visualisation Basics with Python, Part III: Directed Graphs with graphviz](https://medium.com/p/50116fb0d670#3fdb-8fa0a16a2b41)
+
 ## Contributors
 Himalaya Bir Shrestha
 
@@ -29,7 +31,7 @@ If the environment is not required anymore, it can also be removed easily using:
 ```conda env remove -n graphs```
 
 ## To Do
-- [ ] Add notebooks for:
+- [X] Add notebooks for:
     - [X] Flowcharts
     - [X] Directed graphs using NetworkX
-    - [ ] Directed graphs using graphviz
+    - [X] Directed graphs using graphviz
