@@ -1,0 +1,8 @@
+digraph {
+	node [color=red shape=box]
+	a [label="User input"]
+	node [color=blue shape=box]
+	b [label="Calculated value"]
+	node [color=yellow shape=orange]
+	c [label="Fixed input"]
+}

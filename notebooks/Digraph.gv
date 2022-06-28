@@ -1,0 +1,18 @@
+digraph {
+	node [color=red shape=box]
+	a [label="Emissions Intensity (gCO2/vkm)"]
+	b [label="Load Factor (pkm/vkm)"]
+	d [label="Activity per capita (pkm/capita)"]
+	node [color=blue shape=box]
+	c [label="Emissions Intensity (gCO2/pkm)"]
+	f [label="Emissions per capita (gCO2/capita)"]
+	g [label="Total Emissions (g)"]
+	node [color=orange shape=box]
+	e [label=Population]
+	a -> c
+	b -> c
+	c -> f
+	d -> f
+	e -> g
+	f -> g
+}
